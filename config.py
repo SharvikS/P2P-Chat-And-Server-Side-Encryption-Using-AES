@@ -1,0 +1,6 @@
+HOST = "0.0.0.0"
+PORT = 65432
+KEY_FILE = "secret.key"
+STORAGE_DIR = "server_files"
+MAX_HISTORY = 50
+MAX_USERNAME_LEN = 20
